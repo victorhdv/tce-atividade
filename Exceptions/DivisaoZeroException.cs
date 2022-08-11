@@ -1,4 +1,4 @@
-namespace Api.Exceptions;
+namespace Divisao.Exceptions;
 
 [Serializable]
 public class DivisaoZeroException : Exception
