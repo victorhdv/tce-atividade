@@ -1,4 +1,4 @@
-namespace Api.Utils;
+namespace Divisao.Utils;
 
 public class DivisaoResponse
 {

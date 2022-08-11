@@ -1,6 +1,6 @@
-using Api.Exceptions;
-using Api.Services;
-using Api.Utils;
+using Divisao.Exceptions;
+using Divisao.Services;
+using Divisao.Utils;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Divisao.Controllers

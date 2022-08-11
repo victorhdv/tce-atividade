@@ -1,5 +1,5 @@
 
-namespace Api.Services;
+namespace Divisao.Services;
 
 public interface IDivisaoService
 {

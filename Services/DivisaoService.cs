@@ -1,6 +1,6 @@
-using Api.Exceptions;
+using Divisao.Exceptions;
 
-namespace Api.Services;
+namespace Divisao.Services;
 
 public class DivisaoService : IDivisaoService
 {
